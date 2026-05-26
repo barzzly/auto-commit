@@ -19,12 +19,6 @@ Each run:
 
 ---
 
-## 📸 Preview
-
-![Auto Commit Preview](./screenshoot.png)
-
----
-
 ## ⚙️ Setup (for others who want to use this)
 
 1. **Fork or use this template** — Click "Use this template" (⚠️ forked repos won't trigger the workflow)
